@@ -2,7 +2,6 @@
 - 👀 I’m interested in Artificial intelligent,Machine learning,Cybersecurity,Power electronics design
 - 🌱 I’m currently learning B.Tech in Electrical and electronics engineering at Government engineering college,Thrissur
 - 📫 Mail me at mouzoofvktpm@gmail.com
-- 
 
 <!---
 mouzoofv88/mouzoofv88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
