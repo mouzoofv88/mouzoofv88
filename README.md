@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mouzoof V
 - 👀 I’m interested in Artificial intelligent,Machine learning,Cybersecurity,Power electronics design
-- 🌱 I’m currently learning B.Tech in Electrical and electronics engineering at Government engineering college,Thrissur
+- 🌱 I’m currently Working as Design engineer in power electronics at SFO Technologies (R&D).
 - 📫 Mail me at mouzoofvktpm@gmail.com
 
 <!---
