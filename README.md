@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mouzoof V
-- 👀 I’m interested in Artificial intelligent,Machine learning and Cybersecurity,power electronics design
+- 👀 I’m interested in Artificial intelligent,Machine learning,Cybersecurity,Power electronics design
 - 🌱 I’m currently learning B.Tech in Electrical and electronics engineering at Government engineering college,Thrissur
 - 📫 Mail me at mouzoofvktpm@gmail.com
 - 
